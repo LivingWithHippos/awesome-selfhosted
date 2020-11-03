@@ -935,12 +935,6 @@ _Games, game servers and control panels._
 - [Tine 2.0](https://www.tine20.org) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker. ([Demo](https://demo.tine20.net), [Source Code](https://packages.tine20.com/maintenance/source/)) `AGPL-3.0/Other` `PHP`
 - [Zimbra Collaboration](https://www.zimbra.com/) - Email, calendar, collaboration server with Web interface and lots of integrations. ([Source Code](https://github.com/zimbra)) `GPL-2.0/CPAL-1.0` `Java`
 
-## Human Resources Management (HRM) ![last commit](https://img.shields.io/github/last-commit/zimbra)) `GPL-2.0/CPAL-1.0` `Java`
-
-## Human Resources Management (HRM) ![downloads](https://img.shields.io/github/downloads/zimbra)) `GPL-2.0/CPAL-1.0` `Java`
-
-## Human Resources Management (HRM/total) ![commit activity](https://img.shields.io/github/commit-activity/y/zimbra)) `GPL-2.0/CPAL-1.0` `Java`
-
 ## Human Resources Management (HRM)
 
 **[`^        back to top        ^`](#)**
@@ -1036,22 +1030,6 @@ _See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <http
 - [ReadyMedia](http://sourceforge.net/projects/minidlna/) - Simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. Formerly known as MiniDLNA. ([Source Code](https://sourceforge.net/p/minidlna/git/ci/master/tree/)) `GPL-2.0` `C`
 - [Rygel](https://wiki.gnome.org/action/show/Projects/Rygel) - Rygel is a UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. ([Source Code](https://gitlab.gnome.org/GNOME/rygel/)) `GPL-3.0` `C`
 - [üWave](http://u-wave.net/) `⚠` - üWave is a self-hosted collaborative listening platform. Users take turns playing media—songs, talks, gameplay videos, or anything else—from a variety of media sources like YouTube and SoundCloud. ([Demo](https://wlk.yt/), [Source Code](https://github.com/u-wave)) `MIT` `Nodejs`
-
-
-### Audio Streaming
-
-- [Ampache](http://ampache.org/) ![last commit](https://img.shields.io/github/last-commit/u-wave)) `MIT` `Nodejs`
-
-
-### Audio Streaming
-
-- [Ampache](http://ampache.org/) ![downloads](https://img.shields.io/github/downloads/u-wave)) `MIT` `Nodejs`
-
-
-### Audio Streaming
-
-- [Ampache](http://ampache.org//total) ![commit activity](https://img.shields.io/github/commit-activity/y/u-wave)) `MIT` `Nodejs`
-
 
 ### Audio Streaming
 
@@ -1688,30 +1666,6 @@ _See also [Documentation Generators](#documentation-generators), [Wikimatrix](ht
 - [UBOS](http://ubos.net/) - Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, WordPress, etc., and other features. `GPL-3.0` `Perl/Other`
 - [WikiSuite](https://wikisuite.org) - The most comprehensive and integrated Free / Libre / Open Source enterprise software suite. ([Source Code](https://wikisuite.org/Source-Code)) `Multiple` `ClearOS`
 - [YunoHost](https://yunohost.org/) - Server operating system aiming to make self-hosting accessible to everyone. ([Demo](https://yunohost.org/#/try), [Source Code](https://github.com/YunoHost)) `AGPL-3.0` `Python/Other`
-
-<!-- END SOFTWARE LIST -->
-
---------------------
-
-## List of Licenses
-
-**[`^        back to top        ^`](#) ![last commit](https://img.shields.io/github/last-commit/YunoHost)) `AGPL-3.0` `Python/Other`
-
-<!-- END SOFTWARE LIST -->
-
---------------------
-
-## List of Licenses
-
-**[`^        back to top        ^`](#) ![downloads](https://img.shields.io/github/downloads/YunoHost)) `AGPL-3.0` `Python/Other`
-
-<!-- END SOFTWARE LIST -->
-
---------------------
-
-## List of Licenses
-
-**[`^        back to top        ^`](#/total) ![commit activity](https://img.shields.io/github/commit-activity/y/YunoHost)) `AGPL-3.0` `Python/Other`
 
 <!-- END SOFTWARE LIST -->
 
